@@ -250,7 +250,7 @@ export default {
         {
           position: 'PROGRAMMING INTERN => PROGRAMMER/TEST ENGINEER',
           company: 'Emisense',
-          description: 'Multi-summer internship turned entry level position where I got most of my programming chops. I spent most of my time doing ARM development and testing, but I also was tasked with creating a few desktop tools as well as maintaining the company\'s intranet. My biggest project was developing a monitoring setup for a 24 hour per day test including a webpage with streamed video from our facility. I was offered me a promotion, but it would have been less programming and more testing, and it would have required me to move to Salt Lake City.',
+          description: 'Multi-summer internship turned entry level position where I got most of my programming chops. I spent most of my time doing ARM development and testing, but I also was tasked with creating a few desktop tools as well as maintaining the company\'s intranet. My biggest project was developing a monitoring setup for a 24 hour per day test including a webpage with streamed video from our facility.',
           startDate: 'June 2014',
           endDate: 'December 2017'
         }
