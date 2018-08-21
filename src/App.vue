@@ -236,7 +236,7 @@ export default {
       surname: 'Bickham',
       address: 'Portland, OR 97230 · (707) 315-4524 ·',
       email: 'brady.bickham@gmail.com',
-      aboutMe: 'I am a multi-talented programmer with experience in a wide-breadth of programming fields. I am currently searching for a position to apply those skills and expand them and become more specialized.',
+      aboutMe: 'I am an enthusiastic programmer with experience in many types of programming - embedded C, desktop (OS X and Windows) and mobile (iOS and Android) applications, and server based web applications (PHP). I am currently seeking a position were my range of experience and adaptability is a plus and in which I will be challenged to take my skills to the next level.',
       education: [
         {
           school: 'University of California',
@@ -248,9 +248,9 @@ export default {
       ],
       experience: [
         {
-          position: 'Programming Intern',
+          position: 'PROGRAMMING INTERN => PROGRAMMER/TEST ENGINEER',
           company: 'Emisense',
-          description: 'Multi-summer internship where I got most of my programming chops. I spent most of my time doing ARM development and testing, but I also was tasked with creating a few desktop tools as well as maintaining the company\'s intranet. My biggest project was manufacturing a monitoring setup for a 24 hour per day test including a webpage with streamed video from our facility.',
+          description: 'Multi-summer internship turned entry level position where I got most of my programming chops. I spent most of my time doing ARM development and testing, but I also was tasked with creating a few desktop tools as well as maintaining the company\'s intranet. My biggest project was developing a monitoring setup for a 24 hour per day test including a webpage with streamed video from our facility. I was offered me a promotion, but it would have been less programming and more testing, and it would have required me to move to Salt Lake City.',
           startDate: 'June 2014',
           endDate: 'December 2017'
         }
@@ -260,7 +260,7 @@ export default {
           title: 'eAbuse',
           linkName: 'iOS link',
           linkSrc: 'https://itunes.apple.com/us/app/eabuse/id1070012680?ls=1&mt=8',
-          description: 'A comedy app where a three abuse generators speak abuse&mdash;from the <a href="http://www.festvox.org/flite/">Flite</a> TTS engine&mdash;through the mouths of famous mathematicians and scientists. Users can also share the abuse through Facebook and Twitter as well as text messages and email. It\'s an update to a Palm Pilot application created by a previous supervisor and like the original the app is Careware with all the proceeds going to <a href="http://exceptionalmindsstudio.org">Exceptional Minds Studio</a>.',
+          description: 'A comedy app where a three abuse generators speak abuse&mdash;from the <a href="http://www.festvox.org/flite/">Flite</a> TTS engine&mdash;through the mouths of famous mathematicians and scientists. Users can also share the abuse through Facebook and Twitter as well as text messages and email. It\'s a multi media update to an old, text only Palm Pilot application created by a previous supervisor and like the original the app is Careware with all the proceeds going to <a href="http://exceptionalmindsstudio.org">Exceptional Minds Studio</a>.',
           imgSrc: eAbuseimg
         },
         {
